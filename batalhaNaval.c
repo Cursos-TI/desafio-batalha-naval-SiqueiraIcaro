@@ -22,12 +22,12 @@ int main() {
 
     for (int i = 0; i < tamanho_navio_horizontal; i++)
     {
-        tabuleiro[y_hor][x_hor + i] = 'N';
+        tabuleiro[y_hor][x_hor + i];
     }
 
     for (int i = 0; i < tamanho_navio_horizontal; i++)
     {
-        tabuleiro[y_ver][x_ver + i] = 'n';
+        tabuleiro[y_ver][x_ver + i];
     }
 
 
