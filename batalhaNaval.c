@@ -9,7 +9,7 @@ int main() {
     // Sugestão: Declare uma matriz bidimensional para representar o tabuleiro (Ex: int tabuleiro[5][5];).
 
 
-    int tamanho_navio_horizontal = 3;
+    int tamanho_navio_horizontal = 4;
     int tamanho_navio_vertical = 4;
     int tabuleiro[10][10];
 
